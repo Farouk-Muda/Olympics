@@ -92,4 +92,11 @@ order by games;
 ```
 
 ### Relevance
--
+- Sports management are able to track athlete performance over different Olympic games to identify trends, areas of improvements, and the effectiveness of training programs.
+- Effective in talent identification.
+- Sports scientist used this data to conduct research on physiology and performance metrics. 
+
+## Insights
+- Analyse the number of medals won by each country over different Olympic Games.
+- Compare individual athlete performances over multiple events to assess consistency and improvement.
+- insights into the participation rates to improving or declining sports.
