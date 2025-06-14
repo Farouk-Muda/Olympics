@@ -8,7 +8,7 @@ This dataset contains two files:
 - athlete_events.csv, which contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events) and 
 - noc_regions.csv also contains 230 rows and 3 columns (National Olympic Committee, NOC ;country name and notes).
 
-Techtfq has tremendous interest in SQL and formulated 20 queries which will be used and answered in this project.
+ By leveraging PostgreSQL and advanced SQL techniques like window functions, joins, and aggregations, we explore everything from participation trends, medal distributions, athlete performances, and country rankings across 51 Olympic Games from 1896 to 2016. Executed SQL queries to answer 23 distinct questions including:
 - 1.How many olympics games have been held?
 - 2.List down all Olympics games held so far.
 - 3.Mention the total no of nations who participated in each olympics game?
